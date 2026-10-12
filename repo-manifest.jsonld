@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/graphql-python/graphql-relay-py/commit/611c0333eeca53663d9b47f7994098edda81b087",
       "git:hexsha": "611c0333eeca53663d9b47f7994098edda81b087",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/graphql-python/graphql-relay-py/commit/48856fb3cf9e6c122535076a82d862bac3c21779",
